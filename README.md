@@ -21,6 +21,37 @@ Data Preprocess:
 2. DROP UNNECESSARY COLUMNS
 3. REMOVE THE OUTLIER
 4. HANDLING WITH THE IMBALANCED DATA
-5. Feature Scaling
-6. Split Train/Test Data
+5. FEATURE SCALING
+6. SPLIT TRAIN / TEST DATA
+
+<img src="https://user-images.githubusercontent.com/77132971/118458865-bbf8fb00-b72d-11eb-96a4-975d2d1733f3.jpg" width="400"/> <img src="https://user-images.githubusercontent.com/77132971/118458967-d6cb6f80-b72d-11eb-9017-eeaa6e6b48ce.jpg" width="350"/> 
+
+
+## Models Creation
+### Find out the important features
+![Treevisualization](https://user-images.githubusercontent.com/77132971/118460628-750c0500-b72f-11eb-826c-6ba90b038b8a.jpg)
+
+![features](https://user-images.githubusercontent.com/77132971/118460892-b13f6580-b72f-11eb-9e0e-e1e4dd81f413.png)
+
+## Model Evaluation
+We have adopted 6 machine learning models for training and predicting the genre.
+XGBoost give out the best performance.
+
+
+![comparison](https://user-images.githubusercontent.com/77132971/118459455-59542f00-b72e-11eb-907e-9db5f043a8ad.png)
+
+
+## Model Tunning
+1. SMOTE - for imbalance data handling
+2. Drop/add value
+3. Hyperparameter Tuning
+
+
+
+
+## Conclusion
+All of the model are showing an average accuracy of 60-70%.
+It gives us an opportunity to give the genre a bigger spectrum.
+
+
 
