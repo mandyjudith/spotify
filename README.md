@@ -13,6 +13,8 @@ we have made a proposition in diversifying existing genres and again attracting 
 The [Dataset of songs in Spotify](https://www.kaggle.com/mrmorj/dataset-of-songs-in-spotify) contains the full list of genres included in the CSV are Trap, Techno, Techhouse, Trance, Psytrance, Dark Trap, DnB (drums and bass), Hardstyle, Underground Rap, Trap Metal, Emo, Rap, RnB, Pop and Hiphop.
 
 ![countplot](https://user-images.githubusercontent.com/77132971/118456072-cc0fdb00-b72b-11eb-9f13-f9979ba46b82.png)
+![heatmap](https://user-images.githubusercontent.com/77132971/118458551-76d4c900-b72d-11eb-8557-a6564bf5623b.png)
+
 
 Data Preprocess:
 1. CHECK FOR MISSING DATA & VISUALIZATION
